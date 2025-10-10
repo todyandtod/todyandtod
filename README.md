@@ -29,7 +29,7 @@ Here are some of the technologies and tools I work with:
 - How to build more scalable web applications using modern frameworks.
 
 ### 📫 Get in Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gibral-thariq-alfaruq-086280295/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gibral-thariq-alfaruq-735692356)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thrzzr/)
 
 ---
