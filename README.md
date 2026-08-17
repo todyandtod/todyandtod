@@ -1,37 +1,34 @@
-# Hi there, I'm Gibral Thariq Alfaruq! 👋
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&lines=Building+web+apps+with+clean%2C+practical+code.;Exploring+data+science+and+machine+learning.;Turning+curiosity+into+working+software." alt="Animated introduction" />
+</a>
 
-I am a passionate and curious learner who loves exploring and mastering new technologies. With a background in Informatics Management, I focus on building modern web applications, diving into data science, and experimenting with various programming languages and frameworks.
+</div>
 
-### 🚀 About Me
-- 💻 I'm always excited to learn new technologies and improve my skills.
-- 🌐 Web Development is my primary field of interest.
-- 📊 I'm also passionate about Data Science and analytics.
-- 🔧 I enjoy working with **Python**, **Laravel**, and databases like **MySQL** and **PostgreSQL**.
+Hi there, I'm Thorik, an IT enthusiast. Still learning, trying to build web applications, poking around a bit in data science, and experimenting with new languages and frameworks.
 
-### 🛠️ Technologies & Tools
-Here are some of the technologies and tools I work with:
+```yaml
+focus:       [Python, Go, Laravel, CodeIgniter, Flask, Next.js]
+exploring:   [Data Science, Machine Learning, n8n Automation, REST APIs]
+```
 
-- **Languages**: Python, PHP, SQL
-- **Frameworks**: Laravel, Flask
-- **Databases**: MySQL, PostgreSQL
-- **Web Technologies**: HTML5, CSS3, JavaScript
-- **Version Control**: Git, GitHub
-- **Others**: Docker, REST APIs
+## Toolbox
 
-### ⚡️ Fun Facts
-- I love tackling problems related to **data science** and **machine learning**.
-- I am constantly exploring and contributing to open-source projects.
-- When I'm not coding, I enjoy reading about new developments in technology and experimenting with emerging tools.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,php,laravel,django,flask,nextjs,js,html,css,mysql,postgres,git,github,docker,figma,dart,arduino,express,firebase,flutter,java,nodejs,opencv,postman,tailwind,qt,pytorch,kotlin,gitlab,c,cs&perline=8" alt="Python, Go, PHP, Laravel, Django, Flask, Next.js, JavaScript, HTML, CSS, MySQL, PostgreSQL, Git, GitHub, Docker, n8n" />
+</div>
 
-### 🌱 Currently Learning
-- Advanced Python techniques and frameworks.
-- Machine learning and AI algorithms.
-- How to build more scalable web applications using modern frameworks.
+## Let's Connect
 
-### 📫 Get in Touch
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gibral-thariq-alfaruq-735692356)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thooriiik/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thoriq919)
 
----
+</div>
 
-⭐️ From [Gibral Thariq Alfaruq](https://github.com/thoriq919)
+<div align="center">
+  <br />
+  <sub>Built with curiosity and clean commits — Gibral Thariq Alfaruq</sub>
+</div>
